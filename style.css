@@ -1,0 +1,33 @@
+.navbar {
+    margin-bottom: 50px;
+    border-radius: 0;
+  }
+  
+.jumbotron {
+    margin-bottom: 0;
+}
+
+.carousel-inner {
+    margin-bottom: 22px;
+}
+.carousel-caption {
+    color: black;
+}
+.carousel-inner img {
+    width: 100%; 
+    margin: auto;
+    min-height:200px;
+}
+@media (max-width: 600px) {
+  .carousel-caption {
+    display: none; 
+  }
+}
+.bg-3 { 
+    background-color: #ffffff;
+    color: #555555;
+}
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
